@@ -1,3 +1,5 @@
+// Kinda raw implementation
+
 //using Microsoft.AspNetCore.DataProtection;
 //using Microsoft.AspNetCore.Http;
 //using System.Runtime.Intrinsics.Arm;
@@ -64,6 +66,9 @@
 //}
 
 // ================================================================================================================
+
+// Using asp functionality
+
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Http;
